@@ -43,7 +43,7 @@ What if there was a way and means for developers and DApps to be able to connect
 
 The thesis being multiple chains are here to stay and one of many ways to integrate/inter-operate them and allow web3 product transactions to flow in-between them is by building and using bridges.
 
-For DApps to be able to `stream` transactions across chains, we offer a streaming RPC (sRPC) framework and easy to connect set of smart contracts that enables DApps to direct their cross-chain streams through them.
+For DApps to be able to `stream` transactions across chains, we offer an on-chain RPC (ocRPC) framework and easy to connect set of smart contracts that enables DApps to direct their cross-chain streams through them.
 
 Imagine Over-The-Top (OTT) cross-chain streaming framework for web3 products & services using the already existing and proven layer-1 blockchain networks and bridges.
 
@@ -75,15 +75,15 @@ Coming Soon ...due to some unforeseen issues, rebuilding it now.
 
 ## Ecosystem Roadmap
 
-In `Phase-0` we intend to work with `Wormhole` team to bootstrap the testing and deployment of **Solana - Etherem** in their respective testnet and mainnet.
+In `Phase-0` we intend to work with `Wormhole` team to bootstrap the testing and deployment of **Solana - Etherem** bridge in their respective testnets and mainnets.
 
 In `Phase-1` as and when the `Wormhole` bridge is operational between Solana testnet and Ethereum testnet, we shall deploy our Solana smart contract `sNAGARE` and deploy our Ethereum smart contract `eNAGARE`.
 
-In `Phase-1` as and when a bridge becomes available between Solana testnet and Cosmos testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Cosmos smart contract `cNAGARE`.
+In `Phase-2` as and when a bridge (Wormhole preferred) becomes available between Solana testnet and Cosmos testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Cosmos smart contract `cNAGARE`.
 
-In `Phase-2` as and when a bridge becomes available between Solana testnet and Polkadot testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Polkadot smart contract `pNAGARE`.
+In `Phase-3` as and when a bridge (Wormhole preferred) becomes available between Solana testnet and Polkadot testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Polkadot smart contract `pNAGARE`.
 
-NAGARE smart contacts:
+nagare (流れ) smart contacts:
 ```
 sNAGARE (in Solana network)
 eNAGARE (in Ethereum network)
@@ -93,16 +93,16 @@ pNAGARE (in Polkadot network)
 
 ## Live Demo
 
-Work In Progress (WIP) ...awaiting for certain projects to be deployed onto their respective testnet and/or mainnet.
+Work In Progress (WIP) ...awaiting for certain projects to be deployed onto their respective testnets and/or mainnets.
 
 ## Built With
 
-* Solana
-* Ethereum
-* Wormhole
-* Superfluid
-* Chainlink
-* API3
+* ![Solana](https://solana.com/)
+* ![Ethereum](https://ethereum.org/en/)
+* ![Wormhole](https://github.com/certusone/wormhole)
+* ![Superfluid](https://www.superfluid.finance/)
+* ![Chainlink](https://chain.link/)
+* ![API3](https://api3.org/)
 * Coming Soon
 * Coming Soon
 
