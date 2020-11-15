@@ -22,8 +22,21 @@ A github home for the `nagare (流れ)` ecosystem. It is a culmination of severa
 ## Executive Summary
 
 ### Problem
+
+The year 2020 has seen unprecidented amount of build activity in the web3 space across several blockchain projects. One such category is `DeFi` and many layer-1 blockchain networks are seeking to attract developers to build on their respective chain(s) and web3 stack.
+
+There are only a select few number of web3 engineers globally available and they tend to stick with the chain &/ stack they first discoverd, built on, and continued to invest their time.
+
+For web3 to break its current niche or micro-niche bubble, and gain mass adoption, us founders and engineers have to create pathways and remove hurdles (if any) for developers (across web3 and web2) to be able to build on whatever cool idea.
+
 ### Solution
+
+The thesis being multiple chains are here to stay and one of many ways to integrate them and allow transaction flow in-between them is by building bridges.
+
 ### Technology
+
+There are several technology platforms to choose from. However, we are going with projects that have used or planning to use `Rust` as one of their core tenants. Additionally we love learning and building on Rust 🦀.
+
 ### Idea
 
 ## Demo Video
