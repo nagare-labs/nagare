@@ -27,17 +27,35 @@ The year 2020 has seen unprecidented amount of build activity in the web3 space 
 
 There are only a select few number of web3 engineers globally available and they tend to stick with the chain &/ technology stack they first discoverd, built on, and continued to invest their time.
 
-For web3 to break its current niche or micro-niche bubble, and gain mass adoption, us founders and engineers have to create pathways and remove hurdles (if any) for developers (across web3 and web2) to be able to build as many ideas on any chain/network using any technology stack.
+For web3 to break its current niche or micro-niche bubble, and gain mass adoption, us founders and engineers have to create pathways and remove hurdles (if any) for developers (across web3 and web2) to be able to build as many ideas, on any chain/network, using their preferred technology stack.
 
 ### Problem
 
 Developers often pick a network (with big marketcap), a technology stack (with largest community), a category/idea (with a propensity for transaction flow) ...assuming they will be able to attract and retain a large number of users/customers.
 
-This limits the ability to experiment on other innovative chains and technology stacks, so as to build & launch a web3 product that might be closer to achieving `problem-solution` | `product-market` | `founder-industry` fit.
+This limits their ability to experiment on other innovative chains and technology stacks, so as to build & launch a web3 product that might be closer to achieving `problem-solution` | `product-market` | `founder-industry` fit.
 
 ### Solution
 
-The thesis being multiple chains are here to stay and one of many ways to integrate them and allow transaction flow in-between them is by building bridges.
+The thesis being multiple chains are here to stay and one of many ways to integrate/inter-operate them and allow web3 product transactions to flow in-between them is by building bridges.
+
+For DApps to be able to transact across chains, we offer a easy to connect set of smart contracts that enables DApps to direct their x-chain transactions through them.
+
+Using `Wormhole` as a catalyst, we intend to big-bang the `nagare (流れ)` ecosystem.
+
+In `Phase-0` as and when the bridge is operational between Solana testnet and Ethereum testnet, we shall deploy our Solana smart contract `sNAGARE` and deploy our Ethereum smart contract `eNAGARE`.
+
+In `Phase-1` as and when a bridge becomes available between Solana testnet and Cosmos testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Cosmos smart contract `cNAGARE`.
+
+In `Phase-2` as and when a bridge becomes available between Solana testnet and Polkadot testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Polkadot smart contract `pNAGARE`.
+
+NAGARE smart contacts:
+```
+sNAGARE (in Solana network)
+eNAGARE (in Ethereum network)
+cNAGARE (in Cosmos network)
+pNAGARE (in Polkadot network)
+```
 
 ### Technology
 
