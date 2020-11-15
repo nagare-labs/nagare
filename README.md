@@ -2,8 +2,6 @@
 
 A github home for the `nagare (流れ)` ecosystem. It is a culmination of several projects curated for its unique stance in the web3 world.
 
-An open source web3 cross-chain streaming RPC (sRPC) framework for decentralised applications (DApps).
-
 A web3 **on-chain RPC** (ocRPC) framework for decentralised applications (DApps) to establish streams inter/intra blockchain networks.
 
 ## Mascot
