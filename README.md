@@ -21,13 +21,19 @@ A github home for the `nagare (流れ)` ecosystem. It is a culmination of severa
 
 ## Executive Summary
 
-### Problem
+### Context
 
 The year 2020 has seen unprecidented amount of build activity in the web3 space across several blockchain projects. One such category is `DeFi` and many layer-1 blockchain networks are seeking to attract developers to build on their respective chain(s) and web3 stack.
 
-There are only a select few number of web3 engineers globally available and they tend to stick with the chain &/ stack they first discoverd, built on, and continued to invest their time.
+There are only a select few number of web3 engineers globally available and they tend to stick with the chain &/ technology stack they first discoverd, built on, and continued to invest their time.
 
-For web3 to break its current niche or micro-niche bubble, and gain mass adoption, us founders and engineers have to create pathways and remove hurdles (if any) for developers (across web3 and web2) to be able to build on whatever cool idea.
+For web3 to break its current niche or micro-niche bubble, and gain mass adoption, us founders and engineers have to create pathways and remove hurdles (if any) for developers (across web3 and web2) to be able to build as many ideas on any chain/network using any technology stack.
+
+### Problem
+
+Developers often pick a network (with big marketcap), a technology stack (with largest community), a category/idea (with a propensity for transaction flow) ...assuming they will be able to attract and retain a large number of users/customers.
+
+This limits the ability to experiment on other innovative chains and technology stacks, so as to build & launch a web3 product that might be closer to achieving `problem-solution` | `product-market` | `founder-industry` fit.
 
 ### Solution
 
