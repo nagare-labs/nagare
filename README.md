@@ -97,12 +97,12 @@ Work In Progress (WIP) ...awaiting for certain projects to be deployed onto thei
 
 ## Built With
 
-* ![Solana](https://solana.com/)
-* ![Ethereum](https://ethereum.org/en/)
-* ![Wormhole](https://github.com/certusone/wormhole)
-* ![Superfluid](https://www.superfluid.finance/)
-* ![Chainlink](https://chain.link/)
-* ![API3](https://api3.org/)
+* [Solana](https://solana.com/)
+* [Ethereum](https://ethereum.org/en/)
+* [Wormhole](https://github.com/certusone/wormhole)
+* [Superfluid](https://www.superfluid.finance/)
+* [Chainlink](https://chain.link/)
+* [API3](https://api3.org/)
 * Coming Soon
 * Coming Soon
 
