@@ -4,6 +4,8 @@ A github home for the `nagare (流れ)` ecosystem. It is a culmination of severa
 
 An open source web3 cross-chain streaming RPC (sRPC) framework for decentralised applications (DApps).
 
+A web3 **on-chain RPC** (ocRPC) framework for decentralised applications (DApps) to establish streams inter/intra blockchain networks.
+
 ## Mascot
 
 ![Mascot](images/nagare-mascot-00.png)
@@ -37,7 +39,7 @@ Developers often pick a network (with big marketcap), a technology stack (with l
 
 This limits their ability to experiment on other innovative chains and technology stacks, so as to build & launch a web3 product that might be closer to achieving `problem-solution` | `product-market` | `founder-industry` fit.
 
-What if there was a way and means for developers and DApps to be able to not only connect to other interesting chains (using bridges) and establish continuous streams per Time cycles (seconds, minutes, hours, days, week, months).
+What if there was a way and means for developers and DApps to be able to connect to other interesting chains (using bridges) and establish continuous streams per Time cycles (seconds, minutes, hours, days, week, months).
 
 ### Solution
 
