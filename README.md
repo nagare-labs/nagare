@@ -2,9 +2,11 @@
 
 A github home for the `nagare (流れ)` ecosystem. It is a culmination of several projects curated for its unique stance in the web3 world.
 
+An open source web3 cross-chain streaming RPC (sPRC) framework for decentralised applications (DApps).
+
 ## Mascot
 
-![Mascot](images/nagare.png)
+![Mascot](images/nagare-mascot-00.png)
 
 ## Contents
 
@@ -23,9 +25,9 @@ A github home for the `nagare (流れ)` ecosystem. It is a culmination of severa
 
 ### Context
 
-The year 2020 has seen unprecidented amount of build activity in the web3 space across several blockchain projects. One such category is `DeFi` and many layer-1 blockchain networks are seeking to attract developers to build on their respective chain(s) and web3 stack.
+The year 2020 has seen unprecidented amount of build activity in the web3 space across several blockchain projects. One such category is `DeFi` and many layer-1 blockchain networks are seeking to attract developers to build on their respective chain(s) and web3 technology stack.
 
-There are only a select few number of web3 engineers globally available and they tend to stick with the chain &/ technology stack they first discoverd, built on, and continued to invest their time.
+There are only a select few number of web3 engineers globally available and they tend to stick with the chain &/ technology stack they first discovered, built on, and continued to invest their time.
 
 For web3 to break its current niche or micro-niche bubble, and gain mass adoption, us founders and engineers have to create pathways and remove hurdles (if any) for developers (across web3 and web2) to be able to build as many ideas, on any chain/network, using their preferred technology stack.
 
@@ -39,11 +41,39 @@ This limits their ability to experiment on other innovative chains and technolog
 
 The thesis being multiple chains are here to stay and one of many ways to integrate/inter-operate them and allow web3 product transactions to flow in-between them is by building bridges.
 
-For DApps to be able to transact across chains, we offer a easy to connect set of smart contracts that enables DApps to direct their x-chain transactions through them.
+For DApps to be able to `stream` transactions across chains, we offer a streaming RPC (sRPC) framework and easy to connect set of smart contracts that enables DApps to direct their cross-chain streams through them.
+
+### Technology
+
+There are several technology platforms to choose from. However, we are going with projects that have used or planning to use `Rust` as one of their core tenants. Additionally we love learning and building on Rust 🦀.
+
+For streaming to be fast, seamless, cost effective we chose `Solana` & `Wormhole` as the cornerstone building blocks (chain & bridge respectively) and we love their passion for shipping code on a weekly basis.
+
+### Idea
+
+Our biggest assumption here is, Wormhole will be(come) the cross-chain specifications and standards for any/all bridges from/to the `Solana` network.
 
 Using `Wormhole` as a catalyst, we intend to big-bang the `nagare (流れ)` ecosystem.
 
-In `Phase-0` as and when the bridge is operational between Solana testnet and Ethereum testnet, we shall deploy our Solana smart contract `sNAGARE` and deploy our Ethereum smart contract `eNAGARE`.
+What `Wormhole` does for cross-chain bridges -- `nagare` does for cross-chain streams.
+
+## Demo Video
+
+Coming Soon ...due to some unforeseen issues, rebuilding it now.
+
+## Architecture
+
+![Architecture](archs/nagare-arch-00.png)
+
+## Details
+
+...details will be available soon and progressively.
+
+## Ecosystem Roadmap
+
+In `Phase-0` we intend to work with `Wormhole` team to bootstrap the testing and deployment of **Solana - Etherem** in their respective testnet and mainnet.
+
+In `Phase-1` as and when the `Wormhole` bridge is operational between Solana testnet and Ethereum testnet, we shall deploy our Solana smart contract `sNAGARE` and deploy our Ethereum smart contract `eNAGARE`.
 
 In `Phase-1` as and when a bridge becomes available between Solana testnet and Cosmos testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Cosmos smart contract `cNAGARE`.
 
@@ -56,24 +86,6 @@ eNAGARE (in Ethereum network)
 cNAGARE (in Cosmos network)
 pNAGARE (in Polkadot network)
 ```
-
-### Technology
-
-There are several technology platforms to choose from. However, we are going with projects that have used or planning to use `Rust` as one of their core tenants. Additionally we love learning and building on Rust 🦀.
-
-### Idea
-
-## Demo Video
-
-Coming Soon ...due to some unforeseen issues, rebuilding it now.
-
-## Architecture
-
-## Details
-
-## Ecosystem Roadmap
-
-Work In Progress (WIP)
 
 ## Live Demo
 
