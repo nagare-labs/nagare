@@ -75,13 +75,13 @@ Coming Soon ...due to some unforeseen issues, rebuilding it now.
 
 ## Ecosystem Roadmap
 
-In `Phase-0` we intend to work with `Wormhole` team to bootstrap the testing and deployment of **Solana - Etherem** bridge in their respective testnets and mainnets.
+In `Phase-0`: **Solana - Ethereum** ...we intend to work with `Wormhole` team to bootstrap the testing and deployment of the bridge in their respective testnets and mainnets.
 
-In `Phase-1` as and when the `Wormhole` bridge is operational between Solana testnet and Ethereum testnet, we shall deploy our Solana smart contract `sNAGARE` and deploy our Ethereum smart contract `eNAGARE`.
+In `Phase-1`: **Solana - Ethereum** ...as and when the `Wormhole` bridge is operational between Solana testnet and Ethereum testnet, we shall deploy our Solana smart contract `sNAGARE` and deploy our Ethereum smart contract `eNAGARE`.
 
-In `Phase-2` as and when a bridge (Wormhole preferred) becomes available between Solana testnet and Cosmos testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Cosmos smart contract `cNAGARE`.
+In `Phase-2`: **Solana - Cosmos** ...as and when a bridge (Wormhole preferred) becomes available between Solana testnet and Cosmos testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Cosmos smart contract `cNAGARE`.
 
-In `Phase-3` as and when a bridge (Wormhole preferred) becomes available between Solana testnet and Polkadot testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Polkadot smart contract `pNAGARE`.
+In `Phase-3`: **Solana - Polkadot** ...as and when a bridge (Wormhole preferred) becomes available between Solana testnet and Polkadot testnet, we shall enhance our Solana smart contract `sNAGARE` and deploy our Polkadot smart contract `pNAGARE`.
 
 nagare (流れ) smart contacts:
 ```
