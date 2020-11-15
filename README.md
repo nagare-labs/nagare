@@ -2,7 +2,7 @@
 
 A github home for the `nagare (流れ)` ecosystem. It is a culmination of several projects curated for its unique stance in the web3 world.
 
-An open source web3 cross-chain streaming RPC (sPRC) framework for decentralised applications (DApps).
+An open source web3 cross-chain streaming RPC (sRPC) framework for decentralised applications (DApps).
 
 ## Mascot
 
@@ -29,7 +29,7 @@ The year 2020 has seen unprecidented amount of build activity in the web3 space 
 
 There are only a select few number of web3 engineers globally available and they tend to stick with the chain &/ technology stack they first discovered, built on, and continued to invest their time.
 
-For web3 to break its current niche or micro-niche bubble, and gain mass adoption, us founders and engineers have to create pathways and remove hurdles (if any) for developers (across web3 and web2) to be able to build as many ideas, on any chain/network, using their preferred technology stack.
+For web3 to break out of its current niche or micro-niche bubble, and gain mass adoption, us founders and engineers have to create pathways and remove hurdles (if any) for developers (across web3 and web2) to be able to build as many ideas, on any chain/network, using their preferred technology stack.
 
 ### Problem
 
@@ -37,11 +37,15 @@ Developers often pick a network (with big marketcap), a technology stack (with l
 
 This limits their ability to experiment on other innovative chains and technology stacks, so as to build & launch a web3 product that might be closer to achieving `problem-solution` | `product-market` | `founder-industry` fit.
 
+What if there was a way and means for developers and DApps to be able to not only connect to other interesting chains (using bridges) and establish continuous streams per Time cycles (seconds, minutes, hours, days, week, months).
+
 ### Solution
 
-The thesis being multiple chains are here to stay and one of many ways to integrate/inter-operate them and allow web3 product transactions to flow in-between them is by building bridges.
+The thesis being multiple chains are here to stay and one of many ways to integrate/inter-operate them and allow web3 product transactions to flow in-between them is by building and using bridges.
 
 For DApps to be able to `stream` transactions across chains, we offer a streaming RPC (sRPC) framework and easy to connect set of smart contracts that enables DApps to direct their cross-chain streams through them.
+
+Imagine Over-The-Top (OTT) cross-chain streaming framework for web3 products & services using the already existing and proven layer-1 blockchain networks and bridges.
 
 ### Technology
 
